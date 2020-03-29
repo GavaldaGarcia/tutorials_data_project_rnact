@@ -17,7 +17,7 @@ We might need to install some packages for the tutorials to work, the following 
 
 `conda install -c conda-forge jupyterlab seaborn scipy requests`
 
-To launch the files **from the termial**, you'll need to go to the directory that contains the jupyter notebook file:
+To launch the files **from the terminal**, you'll need to go to the directory that contains the jupyter notebook file:
  
  * `pwd` to know your current directory.
  
