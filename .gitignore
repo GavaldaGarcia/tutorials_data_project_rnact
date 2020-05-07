@@ -131,3 +131,5 @@ dmypy.json
 *.xml
 *.iml
 2_flow_control_file_handling/virginica_output.txt
+5_pandas/5_pandas_solutions.ipynb
+5_pandas/5_pandas.ipynb
